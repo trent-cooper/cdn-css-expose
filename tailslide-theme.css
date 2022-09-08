@@ -70,7 +70,9 @@ pre[class*="language-"] {
 .token.punctuation {
   color: #000000;
 }
-.token.property,
+.token.property {
+  color: #24384e;
+}
 .token.tag,
 .token.boolean,
 .token.number,
@@ -85,7 +87,7 @@ pre[class*="language-"] {
 .token.char,
 .token.builtin,
 .token.inserted {
-  color: #3c7099;
+  color: #436e8f;
 }
 .token.operator,
 .token.entity,
@@ -98,7 +100,7 @@ pre[class*="language-"] {
 .token.atrule,
 .token.attr-value,
 .token.keyword {
-  color: #166cbb;
+  color: #0069ca;
 }
 .token.function {
   color: #367a36;
